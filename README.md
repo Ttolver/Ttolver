@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ttolver
 - 👀 I’m Looking for software engineers who want to work for Google
-- 🌱 I’m currently learning ...
 - 📫 How to reach me <-- send resume to ttolver@google.com
 
 <!---
